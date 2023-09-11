@@ -1,0 +1,25 @@
+.VideoCard
+{
+   width: 270px;
+}
+
+.img
+{
+    width: 250px;
+    height:140px;
+}
+
+
+.VideoCard_Info {
+    display: flex;
+        gap: 1px;
+}
+
+.LeftGrid {
+    width: 20%;
+}
+
+.RightGrid {
+    width: 80%;
+}
+

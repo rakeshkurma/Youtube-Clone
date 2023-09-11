@@ -1,0 +1,12 @@
+.Recommended
+{
+ flex: 0.8;
+ padding: 40px 20px;
+}
+
+.Recommended_Videos
+{
+    display: flex;
+    flex-wrap: wrap;
+}
+

@@ -1,0 +1,55 @@
+.Header
+{
+    display: flex;
+    align-items: center; 
+     justify-content:space-between;
+     margin-top: 10px;
+     position: sticky;
+     background-color: white;
+     top:0px;
+     padding: 20px;
+}
+
+.logo
+{
+    height: 25px;
+   object-fit: contain;
+}
+
+.HeaderLeft
+{
+    display: flex;
+    justify-content: center;
+    margin-left: 10px;
+}
+
+.logo{
+    margin-left: 18px;
+}
+
+.HeaderSearch
+{
+    display: flex;
+    justify-content: space-around;
+    width: 35%; 
+    border: 1px solid black;
+}
+
+.HeaderSearch >input{
+    border: none;
+    flex:1;
+}
+
+ .Search{
+  width: 20px;
+  background-color:#fafafa;
+  border-left: 1px solid;
+}
+
+.HeaderIcon
+{
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+    margin-right: 10px;
+}
